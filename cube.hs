@@ -1,0 +1,1 @@
+cubeArea l w h = l * w * h
